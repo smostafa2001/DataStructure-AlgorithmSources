@@ -1,2 +1,2 @@
 # DataStructure-AlgorithmSources
-These codes are simple DSA implementation in Python, C# and C++.
+These codes are simple DSA implementations in Python, C# and C++.
