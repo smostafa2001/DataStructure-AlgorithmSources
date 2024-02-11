@@ -4,7 +4,6 @@
 # Function to sort arr[] of size n using
 # bucket sort
 def bucketSort(arr, n):
-	
 	# 1) Create n empty buckets
 	b = []
 	for i in range(n):
